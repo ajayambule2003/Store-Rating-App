@@ -9,7 +9,7 @@ const storeSchema = new mongoose.Schema({
   password: { type: String, required: true },
   address: { type: String, required: true },
   ratings: [
-    {
+    { 
       user: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'User',
