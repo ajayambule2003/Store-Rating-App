@@ -11,8 +11,8 @@ Rating System: Submit and view ratings for stores.
 Responsive Design: Optimized for various devices and screen sizes.
 
 Technologies Used
-Framework: React.js
-
+Framework: React.js 
+ 
 Routing: React Router
 
 Styling: Tailwind CSS
