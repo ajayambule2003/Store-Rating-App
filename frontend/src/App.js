@@ -8,8 +8,8 @@ import StoreOwnerDashboard from "./components/StoreOwnerDashboard";
 import UserDashboard from "./components/UserDashboard";
 import AppProvider from "./context";
 
-const App = () => {
-  return ( 
+const App = () => { 
+  return (
     <AppProvider>
       <Router>
         <Routes>
