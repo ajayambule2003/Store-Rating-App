@@ -1,15 +1,15 @@
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import "./App.css";
-import StoreOwnerDashboard from "./components/StoreOwnerDashboard";
-import UserDashboard from "./components/UserDashboard";
+import { Protected } from "./auth/protected";
 import AdminDashboard from "./components/AdminDashboard";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { Protected } from "./auth/protected";
+import StoreOwnerDashboard from "./components/StoreOwnerDashboard";
+import UserDashboard from "./components/UserDashboard";
 import AppProvider from "./context";
 
 const App = () => {
-  return (
+  return ( 
     <AppProvider>
       <Router>
         <Routes>
