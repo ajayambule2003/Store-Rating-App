@@ -26,4 +26,4 @@ npm (v6 or above)
 MongoDB
 
 Demo:
- 
+ <video controls src="store-rating-app.mp4" title="Demo"></video>
