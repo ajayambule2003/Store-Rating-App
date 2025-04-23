@@ -1,28 +1,41 @@
-Store Rating App – Frontend
-A responsive and user-friendly frontend application for the Store Rating App. This interface allows users to register, log in, view stores, and submit ratings. Store owners can manage their stores, and admins have access to administrative functionalities.
+# Store Rating App – Frontend
 
-Features
-User Registration & Authentication: Users can sign up and log in securely.
+A responsive and user-friendly frontend interface for the **Store Rating App**. This application enables users to register, log in, view and rate stores. Store owners can manage their stores, while admins have access to administrative controls.
 
-Store Listing: View a list of all available stores with their ratings.
+## ✨ Features
 
-Rating System: Submit and view ratings for stores.
+- **User Registration & Authentication**
+  - Users can securely sign up and log in.
 
-Responsive Design: Optimized for various devices and screen sizes.
+- **Store Listing**
+  - Browse a list of all available stores along with their ratings.
 
-Technologies Used
-Framework: React.js 
- 
-Routing: React Router
+- **Rating System**
+  - Submit and view ratings for different stores.
 
-Styling: Tailwind CSS
+- **Responsive Design**
+  - Fully optimized layout for mobile, tablet, and desktop views.
 
-Form Handling: React Hook Form
+## 🛠️ Tech Stack
 
-HTTP Client: Axios
+- **Framework:** React.js  
+- **Routing:** React Router  
+- **Styling:** Tailwind CSS  
+- **Form Handling:** React Hook Form  
+- **HTTP Client:** Axios
 
-Getting Started
-Prerequisites
-Node.js (v14 or above)
+## 🚀 Getting Started
 
-npm (v6 or above)
+### ✅ Prerequisites
+
+Ensure the following are installed:
+
+- **Node.js** (v14 or above)  
+- **npm** (v6 or above)
+
+### 🔧 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ajayambule2003/Store-Rating-App.git
+
