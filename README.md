@@ -17,7 +17,7 @@ A Node.js and Express.js backend application that enables users to register, log
 - **Admin Panel**
   - Admins can view all registered users and stores.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
