@@ -16,4 +16,3 @@ router.post('/:storeId/rate', protect, submitRating);
 router.put('/:storeId/rate', protect, modifyRating);
 
 module.exports = router;
-
