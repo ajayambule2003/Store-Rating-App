@@ -25,6 +25,4 @@ npm (v6 or above)
 
 MongoDB
 
-
- add video here
- and ganarate a report in that add this repo link and and also drive link. 
+Demo:
