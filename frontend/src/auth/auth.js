@@ -9,4 +9,4 @@ export const getToken = () => {
 export const cleanLocalStorage = () => {
   localStorage.clear();
 };
- 
+
